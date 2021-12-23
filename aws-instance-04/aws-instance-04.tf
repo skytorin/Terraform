@@ -11,7 +11,7 @@ resource "aws_instance" "Server" {
     tags = {
        Name = "Wiki Server"
        Owner = "Ostin"
-       Project = "Lesson-04"
+       Project = "aws-instance-04"
  }
 }
 

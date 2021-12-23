@@ -20,7 +20,7 @@ EOF
     tags = {
        Name = "Web Server Amazon Linux"
        Owner = "Ostin"
-       Project = "Lesson-03"
+       Project = "aws-instance-03"
  }
 }
 

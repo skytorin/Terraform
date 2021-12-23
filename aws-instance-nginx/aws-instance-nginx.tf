@@ -12,7 +12,7 @@ resource "aws_instance" "Server" {
     tags = {
        Name = "NGINX Server"
        Owner = "Ostin"
-       Project = "NGINX"
+       Project = "aws-instance-nginx"
  }
 }
 

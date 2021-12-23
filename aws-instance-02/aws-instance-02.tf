@@ -8,8 +8,8 @@ resource "aws_instance" "Server" {
     vpc_security_group_ids = ["sg-065b6b5bb65715223"]
     tags = {
        Name = "Amazon Linux"
-       Owner = "Ostin"
-       Project = "Lesson-02"
+       Owner = "skytorin"
+       Project = "aws-instance-02"
  }
 }
 
