@@ -1,9 +1,10 @@
 errors.txt
-/Lesson_01/.terraform
-/Lesson_02/.terraform
-/Lesson_03/.terraform
-/Lesson_04/.terraform
-/Lesson_05/.terraform
-/Lesson_06/.terraform
-/NGINX/.terraform
+/aws-instance-01/.terraform
+/aws-instance-02/.terraform
+/aws-instance-03/.terraform
+/aws-instance-04/.terraform
+/aws-instance-05/.terraform
+/aws-instance-06/.terraform
+/aws-instance-nginx/.terraform
 /.terraform
+/.terraform/
