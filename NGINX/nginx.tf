@@ -4,6 +4,7 @@ provider "aws" {
 }
 
 resource "aws_instance" "Server" {
+    count = 1
     ami = "ami-05f7491af5eef733a"       # Ubuntu Linux AMI
     instance_type = "t2.micro"
     vpc_security_group_ids = [aws_security_group.My_Firewall_Nginx.id]
